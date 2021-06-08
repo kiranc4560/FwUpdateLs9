@@ -19,4 +19,5 @@ Open Terminal/Cmd and Write Command as written Below
  
  
  known Bug:
-	as of now have an issue in capturing the Complete logs. in feature will fix it 
+	as of now have an issue in capturing the Complete logs. in feature will fix it.
+	latest firmware version should be greater the the staging firmware version.
